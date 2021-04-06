@@ -1,0 +1,13 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-row{
+    display: flex;
+}
+
+button{
+    margin-right: 6px;
+    margin-bottom: 2px;
+}
